@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_site=self.webpackChunkdocs_site||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/engineering-best-practices/blog","blogTitle":"Blog","authorsListPath":"/engineering-best-practices/blog/authors"}')}}]);
