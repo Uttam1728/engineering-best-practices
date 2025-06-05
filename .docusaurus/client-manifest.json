@@ -1,0 +1,723 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "2237": [
+      2237
+    ],
+    "6870": [
+      867,
+      1869,
+      3249,
+      4813,
+      6061,
+      7518,
+      7643,
+      8401,
+      6870
+    ],
+    "7518": [
+      867,
+      1869,
+      3249,
+      4212,
+      4813,
+      6870,
+      7643,
+      7518
+    ],
+    "17896441": [
+      1869,
+      6870,
+      8401
+    ],
+    "59362658": [
+      9325
+    ],
+    "main": [
+      1869,
+      5354,
+      8792
+    ],
+    "runtime~main": [
+      1869,
+      8792,
+      5354
+    ],
+    "0128b6cf": [
+      2839
+    ],
+    "01a85c17": [
+      1869,
+      8209
+    ],
+    "0e384e19": [
+      3976
+    ],
+    "18c41134": [
+      9262
+    ],
+    "1df93b7f": [
+      1869,
+      4583
+    ],
+    "1e4232ab": [
+      1953
+    ],
+    "1f391b9e": [
+      1869,
+      6870,
+      6061
+    ],
+    "2045d6d3": [
+      4977
+    ],
+    "33fc5bb8": [
+      1869,
+      6870,
+      7518,
+      867
+    ],
+    "36994c47": [
+      9858
+    ],
+    "393be207": [
+      4134
+    ],
+    "39e2c7f3": [
+      9981
+    ],
+    "3bac4023": [
+      3081
+    ],
+    "51e16fe3": [
+      471
+    ],
+    "533a09ca": [
+      3098
+    ],
+    "5c868d36": [
+      1974
+    ],
+    "5e95c892": [
+      9647
+    ],
+    "621db11d": [
+      1869,
+      7518,
+      4212
+    ],
+    "6875c492": [
+      1869,
+      6870,
+      7518,
+      4813
+    ],
+    "6e2270fe": [
+      9214
+    ],
+    "73664a40": [
+      1972
+    ],
+    "7661071f": [
+      8737
+    ],
+    "814f3328": [
+      7472
+    ],
+    "822bd8ab": [
+      2748
+    ],
+    "8717b14a": [
+      3694
+    ],
+    "925b3f96": [
+      8609
+    ],
+    "9a6036af": [
+      7181
+    ],
+    "9e4087bc": [
+      2711
+    ],
+    "a075bb65": [
+      6687
+    ],
+    "a1e44000": [
+      3734
+    ],
+    "a65000c3": [
+      6051
+    ],
+    "a6aa9e1f": [
+      1869,
+      6870,
+      7518,
+      7643
+    ],
+    "a7456010": [
+      1235
+    ],
+    "a7bd4aaa": [
+      7098
+    ],
+    "a94703ab": [
+      1869,
+      9048
+    ],
+    "aba21aa0": [
+      5742
+    ],
+    "acecf23e": [
+      1903
+    ],
+    "c3ca8efa": [
+      7735
+    ],
+    "ccc49370": [
+      1869,
+      6870,
+      7518,
+      3249
+    ],
+    "d9f32620": [
+      5557
+    ],
+    "dff1c289": [
+      1724
+    ],
+    "e0e4dfcd": [
+      3708
+    ],
+    "e273c56f": [
+      9328
+    ],
+    "e44a2883": [
+      4736
+    ],
+    "e958f533": [
+      7455
+    ],
+    "f4f34a3a": [
+      3637
+    ],
+    "f55d3e7a": [
+      8863
+    ],
+    "styles": [
+      867,
+      3249,
+      4212,
+      4583,
+      4813,
+      5354,
+      6061,
+      6870,
+      7518,
+      7643,
+      8209,
+      8401,
+      8792,
+      9048,
+      1869
+    ]
+  },
+  "assets": {
+    "471": {
+      "js": [
+        {
+          "file": "assets/js/51e16fe3.28806ded.js",
+          "hash": "8c9bb90cf3931669",
+          "publicPath": "/engineering-best-practices/assets/js/51e16fe3.28806ded.js"
+        }
+      ]
+    },
+    "867": {
+      "js": [
+        {
+          "file": "assets/js/33fc5bb8.093962b5.js",
+          "hash": "55621b774cda7251",
+          "publicPath": "/engineering-best-practices/assets/js/33fc5bb8.093962b5.js"
+        }
+      ]
+    },
+    "1235": {
+      "js": [
+        {
+          "file": "assets/js/a7456010.8162f280.js",
+          "hash": "aa229b331574811f",
+          "publicPath": "/engineering-best-practices/assets/js/a7456010.8162f280.js"
+        }
+      ]
+    },
+    "1724": {
+      "js": [
+        {
+          "file": "assets/js/dff1c289.5293275d.js",
+          "hash": "380870bd8af84c08",
+          "publicPath": "/engineering-best-practices/assets/js/dff1c289.5293275d.js"
+        }
+      ]
+    },
+    "1869": {
+      "css": [
+        {
+          "file": "assets/css/styles.7cff4800.css",
+          "hash": "80544bf5c8c9b5fa",
+          "publicPath": "/engineering-best-practices/assets/css/styles.7cff4800.css"
+        }
+      ]
+    },
+    "1903": {
+      "js": [
+        {
+          "file": "assets/js/acecf23e.a93fb2d9.js",
+          "hash": "a9003afd03c94f44",
+          "publicPath": "/engineering-best-practices/assets/js/acecf23e.a93fb2d9.js"
+        }
+      ]
+    },
+    "1953": {
+      "js": [
+        {
+          "file": "assets/js/1e4232ab.a9c2b179.js",
+          "hash": "358dbc5e6e57d81d",
+          "publicPath": "/engineering-best-practices/assets/js/1e4232ab.a9c2b179.js"
+        }
+      ]
+    },
+    "1972": {
+      "js": [
+        {
+          "file": "assets/js/73664a40.1289c503.js",
+          "hash": "d2721fc88e2f0a65",
+          "publicPath": "/engineering-best-practices/assets/js/73664a40.1289c503.js"
+        }
+      ]
+    },
+    "1974": {
+      "js": [
+        {
+          "file": "assets/js/5c868d36.15f7284a.js",
+          "hash": "1c0085e6f75eff30",
+          "publicPath": "/engineering-best-practices/assets/js/5c868d36.15f7284a.js"
+        }
+      ]
+    },
+    "2237": {
+      "js": [
+        {
+          "file": "assets/js/2237.0b4930cc.js",
+          "hash": "7dba4e8d78480ae5",
+          "publicPath": "/engineering-best-practices/assets/js/2237.0b4930cc.js"
+        }
+      ]
+    },
+    "2711": {
+      "js": [
+        {
+          "file": "assets/js/9e4087bc.b94cb0aa.js",
+          "hash": "e84f26ee5a8a1826",
+          "publicPath": "/engineering-best-practices/assets/js/9e4087bc.b94cb0aa.js"
+        }
+      ]
+    },
+    "2748": {
+      "js": [
+        {
+          "file": "assets/js/822bd8ab.b33e8e2a.js",
+          "hash": "c091aa03515a74c4",
+          "publicPath": "/engineering-best-practices/assets/js/822bd8ab.b33e8e2a.js"
+        }
+      ]
+    },
+    "2839": {
+      "js": [
+        {
+          "file": "assets/js/0128b6cf.0afdc636.js",
+          "hash": "724adf71c2178aed",
+          "publicPath": "/engineering-best-practices/assets/js/0128b6cf.0afdc636.js"
+        }
+      ]
+    },
+    "3081": {
+      "js": [
+        {
+          "file": "assets/js/3bac4023.a146b698.js",
+          "hash": "5b3101d61a1db2a4",
+          "publicPath": "/engineering-best-practices/assets/js/3bac4023.a146b698.js"
+        }
+      ]
+    },
+    "3098": {
+      "js": [
+        {
+          "file": "assets/js/533a09ca.5195c119.js",
+          "hash": "aee7dd17fa94c140",
+          "publicPath": "/engineering-best-practices/assets/js/533a09ca.5195c119.js"
+        }
+      ]
+    },
+    "3249": {
+      "js": [
+        {
+          "file": "assets/js/ccc49370.893a3f9d.js",
+          "hash": "cac88132aae6b10d",
+          "publicPath": "/engineering-best-practices/assets/js/ccc49370.893a3f9d.js"
+        }
+      ]
+    },
+    "3637": {
+      "js": [
+        {
+          "file": "assets/js/f4f34a3a.7275e07f.js",
+          "hash": "734dec0cce4c405d",
+          "publicPath": "/engineering-best-practices/assets/js/f4f34a3a.7275e07f.js"
+        }
+      ]
+    },
+    "3694": {
+      "js": [
+        {
+          "file": "assets/js/8717b14a.eaab03e6.js",
+          "hash": "762fb2497d91a074",
+          "publicPath": "/engineering-best-practices/assets/js/8717b14a.eaab03e6.js"
+        }
+      ]
+    },
+    "3708": {
+      "js": [
+        {
+          "file": "assets/js/e0e4dfcd.b8a3ae83.js",
+          "hash": "f60131fc9a8e6620",
+          "publicPath": "/engineering-best-practices/assets/js/e0e4dfcd.b8a3ae83.js"
+        }
+      ]
+    },
+    "3734": {
+      "js": [
+        {
+          "file": "assets/js/a1e44000.b9575328.js",
+          "hash": "234cad6ad9f4c56c",
+          "publicPath": "/engineering-best-practices/assets/js/a1e44000.b9575328.js"
+        }
+      ]
+    },
+    "3976": {
+      "js": [
+        {
+          "file": "assets/js/0e384e19.83be7883.js",
+          "hash": "2dbe569e3cdff06d",
+          "publicPath": "/engineering-best-practices/assets/js/0e384e19.83be7883.js"
+        }
+      ]
+    },
+    "4134": {
+      "js": [
+        {
+          "file": "assets/js/393be207.b054f138.js",
+          "hash": "f5e5d6c0c7023d1e",
+          "publicPath": "/engineering-best-practices/assets/js/393be207.b054f138.js"
+        }
+      ]
+    },
+    "4212": {
+      "js": [
+        {
+          "file": "assets/js/621db11d.0b428c1b.js",
+          "hash": "67496b4446bd35e9",
+          "publicPath": "/engineering-best-practices/assets/js/621db11d.0b428c1b.js"
+        }
+      ]
+    },
+    "4583": {
+      "js": [
+        {
+          "file": "assets/js/1df93b7f.fa320fc4.js",
+          "hash": "991b2598736c4233",
+          "publicPath": "/engineering-best-practices/assets/js/1df93b7f.fa320fc4.js"
+        }
+      ]
+    },
+    "4736": {
+      "js": [
+        {
+          "file": "assets/js/e44a2883.9906cdf2.js",
+          "hash": "7189f097a8bd0d05",
+          "publicPath": "/engineering-best-practices/assets/js/e44a2883.9906cdf2.js"
+        }
+      ]
+    },
+    "4813": {
+      "js": [
+        {
+          "file": "assets/js/6875c492.b8d2be12.js",
+          "hash": "2c12a9d67a27388f",
+          "publicPath": "/engineering-best-practices/assets/js/6875c492.b8d2be12.js"
+        }
+      ]
+    },
+    "4977": {
+      "js": [
+        {
+          "file": "assets/js/2045d6d3.7caa9831.js",
+          "hash": "aa1474cf89db61dc",
+          "publicPath": "/engineering-best-practices/assets/js/2045d6d3.7caa9831.js"
+        }
+      ]
+    },
+    "5354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.9eb3ed9d.js",
+          "hash": "e01a432bb538f8df",
+          "publicPath": "/engineering-best-practices/assets/js/runtime~main.9eb3ed9d.js"
+        }
+      ]
+    },
+    "5557": {
+      "js": [
+        {
+          "file": "assets/js/d9f32620.650b60a8.js",
+          "hash": "a58136e059bdabae",
+          "publicPath": "/engineering-best-practices/assets/js/d9f32620.650b60a8.js"
+        }
+      ]
+    },
+    "5742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.2e49037e.js",
+          "hash": "898a8b95424df2ef",
+          "publicPath": "/engineering-best-practices/assets/js/aba21aa0.2e49037e.js"
+        }
+      ]
+    },
+    "6051": {
+      "js": [
+        {
+          "file": "assets/js/a65000c3.45e8686a.js",
+          "hash": "1565f1a1c00b0317",
+          "publicPath": "/engineering-best-practices/assets/js/a65000c3.45e8686a.js"
+        }
+      ]
+    },
+    "6061": {
+      "js": [
+        {
+          "file": "assets/js/1f391b9e.e767c98f.js",
+          "hash": "529db6a9e9b91973",
+          "publicPath": "/engineering-best-practices/assets/js/1f391b9e.e767c98f.js"
+        }
+      ]
+    },
+    "6687": {
+      "js": [
+        {
+          "file": "assets/js/a075bb65.af398318.js",
+          "hash": "6ff667118fe7da65",
+          "publicPath": "/engineering-best-practices/assets/js/a075bb65.af398318.js"
+        }
+      ]
+    },
+    "6870": {
+      "js": [
+        {
+          "file": "assets/js/6870.fd888934.js",
+          "hash": "fabf3d281be5ac04",
+          "publicPath": "/engineering-best-practices/assets/js/6870.fd888934.js"
+        }
+      ]
+    },
+    "7098": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.8581999f.js",
+          "hash": "b450f9c9d37332e2",
+          "publicPath": "/engineering-best-practices/assets/js/a7bd4aaa.8581999f.js"
+        }
+      ]
+    },
+    "7181": {
+      "js": [
+        {
+          "file": "assets/js/9a6036af.5a21bd9f.js",
+          "hash": "2313a011ad945963",
+          "publicPath": "/engineering-best-practices/assets/js/9a6036af.5a21bd9f.js"
+        }
+      ]
+    },
+    "7455": {
+      "js": [
+        {
+          "file": "assets/js/e958f533.5b5a4348.js",
+          "hash": "c73bf50c7ce451b3",
+          "publicPath": "/engineering-best-practices/assets/js/e958f533.5b5a4348.js"
+        }
+      ]
+    },
+    "7472": {
+      "js": [
+        {
+          "file": "assets/js/814f3328.f5ec9c8d.js",
+          "hash": "92186fe2d89a461b",
+          "publicPath": "/engineering-best-practices/assets/js/814f3328.f5ec9c8d.js"
+        }
+      ]
+    },
+    "7518": {
+      "js": [
+        {
+          "file": "assets/js/7518.38b4bd05.js",
+          "hash": "17c0832de9b21017",
+          "publicPath": "/engineering-best-practices/assets/js/7518.38b4bd05.js"
+        }
+      ]
+    },
+    "7643": {
+      "js": [
+        {
+          "file": "assets/js/a6aa9e1f.d6f740fb.js",
+          "hash": "d52303e714200a69",
+          "publicPath": "/engineering-best-practices/assets/js/a6aa9e1f.d6f740fb.js"
+        }
+      ]
+    },
+    "7735": {
+      "js": [
+        {
+          "file": "assets/js/c3ca8efa.6bd2927f.js",
+          "hash": "63f088201ecf6079",
+          "publicPath": "/engineering-best-practices/assets/js/c3ca8efa.6bd2927f.js"
+        }
+      ]
+    },
+    "8209": {
+      "js": [
+        {
+          "file": "assets/js/01a85c17.d594d3bd.js",
+          "hash": "b2ca99eb7be90f8a",
+          "publicPath": "/engineering-best-practices/assets/js/01a85c17.d594d3bd.js"
+        }
+      ]
+    },
+    "8401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.e68bdd65.js",
+          "hash": "99b8ceba430ad513",
+          "publicPath": "/engineering-best-practices/assets/js/17896441.e68bdd65.js"
+        }
+      ]
+    },
+    "8609": {
+      "js": [
+        {
+          "file": "assets/js/925b3f96.1a84af68.js",
+          "hash": "7851a430688b4d83",
+          "publicPath": "/engineering-best-practices/assets/js/925b3f96.1a84af68.js"
+        }
+      ]
+    },
+    "8737": {
+      "js": [
+        {
+          "file": "assets/js/7661071f.a1bb20bb.js",
+          "hash": "be271bda9e5ab3f8",
+          "publicPath": "/engineering-best-practices/assets/js/7661071f.a1bb20bb.js"
+        }
+      ]
+    },
+    "8792": {
+      "js": [
+        {
+          "file": "assets/js/main.0b22c9a2.js",
+          "hash": "2705766b8dc03642",
+          "publicPath": "/engineering-best-practices/assets/js/main.0b22c9a2.js"
+        }
+      ]
+    },
+    "8863": {
+      "js": [
+        {
+          "file": "assets/js/f55d3e7a.69f03e3a.js",
+          "hash": "f2ca08fcbb8721cb",
+          "publicPath": "/engineering-best-practices/assets/js/f55d3e7a.69f03e3a.js"
+        }
+      ]
+    },
+    "9048": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.482adf24.js",
+          "hash": "3270fa88761610a8",
+          "publicPath": "/engineering-best-practices/assets/js/a94703ab.482adf24.js"
+        }
+      ]
+    },
+    "9214": {
+      "js": [
+        {
+          "file": "assets/js/6e2270fe.5b12aa86.js",
+          "hash": "923f381de75da71a",
+          "publicPath": "/engineering-best-practices/assets/js/6e2270fe.5b12aa86.js"
+        }
+      ]
+    },
+    "9262": {
+      "js": [
+        {
+          "file": "assets/js/18c41134.24b2ad64.js",
+          "hash": "9b032c035abdb4f6",
+          "publicPath": "/engineering-best-practices/assets/js/18c41134.24b2ad64.js"
+        }
+      ]
+    },
+    "9325": {
+      "js": [
+        {
+          "file": "assets/js/59362658.6c04d5ad.js",
+          "hash": "f6480910fdb528b3",
+          "publicPath": "/engineering-best-practices/assets/js/59362658.6c04d5ad.js"
+        }
+      ]
+    },
+    "9328": {
+      "js": [
+        {
+          "file": "assets/js/e273c56f.6212c876.js",
+          "hash": "f7af6a737d0b449d",
+          "publicPath": "/engineering-best-practices/assets/js/e273c56f.6212c876.js"
+        }
+      ]
+    },
+    "9647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.13de9cff.js",
+          "hash": "ceb4ba7156678c79",
+          "publicPath": "/engineering-best-practices/assets/js/5e95c892.13de9cff.js"
+        }
+      ]
+    },
+    "9858": {
+      "js": [
+        {
+          "file": "assets/js/36994c47.e0fc7644.js",
+          "hash": "6a231a2d4eed36ec",
+          "publicPath": "/engineering-best-practices/assets/js/36994c47.e0fc7644.js"
+        }
+      ]
+    },
+    "9981": {
+      "js": [
+        {
+          "file": "assets/js/39e2c7f3.d67b814c.js",
+          "hash": "63c8419129c2a9d6",
+          "publicPath": "/engineering-best-practices/assets/js/39e2c7f3.d67b814c.js"
+        }
+      ]
+    }
+  }
+}
