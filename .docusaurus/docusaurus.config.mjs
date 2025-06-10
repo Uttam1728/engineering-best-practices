@@ -80,7 +80,7 @@ export default {
           "items": [
             {
               "label": "Database Design",
-              "to": "/docs/code-quality#-database-design"
+              "to": "/docs/code-quality#️-database-design"
             },
             {
               "label": "API Architecture",
@@ -88,7 +88,7 @@ export default {
             },
             {
               "label": "Code Quality",
-              "to": "/docs/code-quality#-code-quality--structure"
+              "to": "/docs/code-quality#️-code-quality--structure"
             }
           ]
         },
