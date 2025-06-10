@@ -7,27 +7,6 @@ export default {
   "title": "Engineering Best Practices",
   "tagline": "Comprehensive guide to software engineering excellence",
   "favicon": "img/favicon.ico",
-  "future": {
-    "v4": {
-      "removeLegacyPostBuildHeadAttribute": true,
-      "useCssCascadeLayers": true
-    },
-    "experimental_faster": {
-      "swcJsLoader": false,
-      "swcJsMinimizer": false,
-      "swcHtmlMinimizer": false,
-      "lightningCssMinimizer": false,
-      "mdxCrossCompilerCache": false,
-      "rspackBundler": false,
-      "rspackPersistentCache": false,
-      "ssgWorkerThreads": false
-    },
-    "experimental_storage": {
-      "type": "localStorage",
-      "namespace": false
-    },
-    "experimental_router": "browser"
-  },
   "url": "https://uttam1728.github.io",
   "baseUrl": "/engineering-best-practices/",
   "organizationName": "Uttam1728",
@@ -50,20 +29,7 @@ export default {
           "sidebarPath": "./sidebars.ts",
           "editUrl": "https://github.com/Uttam1728/engineering-best-practices/edit/main/"
         },
-        "blog": {
-          "showReadingTime": true,
-          "feedOptions": {
-            "type": [
-              "rss",
-              "atom"
-            ],
-            "xslt": true
-          },
-          "editUrl": "https://github.com/Uttam1728/engineering-best-practices/edit/main/",
-          "onInlineTags": "warn",
-          "onInlineAuthors": "warn",
-          "onUntruncatedBlogPosts": "warn"
-        },
+        "blog": false,
         "theme": {
           "customCss": "./src/css/custom.css"
         }
@@ -84,11 +50,6 @@ export default {
           "sidebarId": "tutorialSidebar",
           "position": "left",
           "label": "Documentation"
-        },
-        {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
         },
         {
           "href": "https://github.com/Uttam1728/engineering-best-practices",
@@ -134,10 +95,6 @@ export default {
         {
           "title": "More",
           "items": [
-            {
-              "label": "Blog",
-              "to": "/blog"
-            },
             {
               "label": "GitHub",
               "href": "https://github.com/Uttam1728/engineering-best-practices"
@@ -375,6 +332,27 @@ export default {
     }
   },
   "baseUrlIssueBanner": true,
+  "future": {
+    "v4": {
+      "removeLegacyPostBuildHeadAttribute": false,
+      "useCssCascadeLayers": false
+    },
+    "experimental_faster": {
+      "swcJsLoader": false,
+      "swcJsMinimizer": false,
+      "swcHtmlMinimizer": false,
+      "lightningCssMinimizer": false,
+      "mdxCrossCompilerCache": false,
+      "rspackBundler": false,
+      "rspackPersistentCache": false,
+      "ssgWorkerThreads": false
+    },
+    "experimental_storage": {
+      "type": "localStorage",
+      "namespace": false
+    },
+    "experimental_router": "browser"
+  },
   "onBrokenAnchors": "warn",
   "onDuplicateRoutes": "warn",
   "staticDirectories": [

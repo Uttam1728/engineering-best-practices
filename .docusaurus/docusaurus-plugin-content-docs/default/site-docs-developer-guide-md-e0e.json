@@ -1,7 +1,7 @@
 {
   "id": "developer-guide",
-  "title": "Daily DevOps Enforcement Checklist",
-  "description": "Essential daily workflow checklist for developers covering branch rules, security, testing, and coding best practices.",
+  "title": "Developer Guide & Checklist",
+  "description": "A comprehensive checklist for developers to ensure high-quality code delivery.",
   "source": "@site/docs/developer-guide.md",
   "sourceDirName": ".",
   "slug": "/developer-guide",
@@ -11,16 +11,13 @@
   "editUrl": "https://github.com/Uttam1728/engineering-best-practices/edit/main/docs/developer-guide.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 2,
+  "sidebarPosition": 3,
   "frontMatter": {
-    "sidebar_position": 2,
-    "id": "developer-guide",
-    "title": "Daily DevOps Enforcement Checklist",
-    "description": "Essential daily workflow checklist for developers covering branch rules, security, testing, and coding best practices."
+    "sidebar_position": 3
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Engineering Best Practices Handbook",
+    "title": "Code Quality & Best Practices",
     "permalink": "/engineering-best-practices/docs/code-quality"
   }
 }

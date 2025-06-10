@@ -1,222 +1,15 @@
 {
-  "/engineering-best-practices/blog-d51": {
-    "__comp": "a6aa9e1f",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "7661071f"
-      },
-      {
-        "content": "f4f34a3a"
-      },
-      {
-        "content": "8717b14a"
-      },
-      {
-        "content": "925b3f96"
-      }
-    ],
-    "__props": "a075bb65"
-  },
-  "/engineering-best-practices/blog/archive-167": {
-    "__comp": "9e4087bc",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "__props": "51e16fe3"
-  },
-  "/engineering-best-practices/blog/authors-af3": {
-    "__comp": "621db11d",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "__props": "a1e44000"
-  },
-  "/engineering-best-practices/blog/authors/all-sebastien-lorber-articles-7ac": {
-    "__comp": "33fc5bb8",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "items": [
-      {
-        "content": "7661071f"
-      },
-      {
-        "content": "f4f34a3a"
-      },
-      {
-        "content": "925b3f96"
-      }
-    ],
-    "sidebar": "814f3328",
-    "__props": "2045d6d3"
-  },
-  "/engineering-best-practices/blog/authors/yangshun-624": {
-    "__comp": "33fc5bb8",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "items": [
-      {
-        "content": "7661071f"
-      },
-      {
-        "content": "8717b14a"
-      },
-      {
-        "content": "925b3f96"
-      }
-    ],
-    "sidebar": "814f3328",
-    "__props": "c3ca8efa"
-  },
-  "/engineering-best-practices/blog/first-blog-post-3e3": {
-    "__comp": "ccc49370",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "content": "e273c56f"
-  },
-  "/engineering-best-practices/blog/long-blog-post-d34": {
-    "__comp": "ccc49370",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "content": "73664a40"
-  },
-  "/engineering-best-practices/blog/mdx-blog-post-60a": {
-    "__comp": "ccc49370",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "content": "59362658"
-  },
-  "/engineering-best-practices/blog/tags-bf0": {
-    "__comp": "01a85c17",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "__props": "6e2270fe"
-  },
-  "/engineering-best-practices/blog/tags/docusaurus-715": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "7661071f"
-      },
-      {
-        "content": "f4f34a3a"
-      },
-      {
-        "content": "8717b14a"
-      },
-      {
-        "content": "925b3f96"
-      }
-    ],
-    "__props": "e958f533"
-  },
-  "/engineering-best-practices/blog/tags/facebook-2bf": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "7661071f"
-      }
-    ],
-    "__props": "0128b6cf"
-  },
-  "/engineering-best-practices/blog/tags/hello-c24": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "7661071f"
-      },
-      {
-        "content": "8717b14a"
-      }
-    ],
-    "__props": "9a6036af"
-  },
-  "/engineering-best-practices/blog/tags/hola-324": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "925b3f96"
-      }
-    ],
-    "__props": "3bac4023"
-  },
-  "/engineering-best-practices/blog/welcome-98f": {
-    "__comp": "ccc49370",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "content": "d9f32620"
-  },
-  "/engineering-best-practices/markdown-page-63b": {
-    "__comp": "1f391b9e",
-    "__context": {
-      "plugin": "a7456010"
-    },
-    "content": "393be207"
-  },
-  "/engineering-best-practices/docs-c5d": {
+  "/engineering-best-practices/docs-371": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/engineering-best-practices/docs-006": {
+  "/engineering-best-practices/docs-bfc": {
     "__comp": "a7bd4aaa",
     "__props": "a65000c3"
   },
-  "/engineering-best-practices/docs-448": {
+  "/engineering-best-practices/docs-e4e": {
     "__comp": "a94703ab"
   },
   "/engineering-best-practices/docs/code-quality-969": {
@@ -227,44 +20,12 @@
     "__comp": "17896441",
     "content": "e0e4dfcd"
   },
-  "/engineering-best-practices/docs/intro-b1d": {
+  "/engineering-best-practices/docs/intro-416": {
     "__comp": "17896441",
     "content": "0e384e19"
   },
-  "/engineering-best-practices/docs/tutorial-basics/congratulations-af1": {
-    "__comp": "17896441",
-    "content": "822bd8ab"
-  },
-  "/engineering-best-practices/docs/tutorial-basics/create-a-blog-post-775": {
-    "__comp": "17896441",
-    "content": "533a09ca"
-  },
-  "/engineering-best-practices/docs/tutorial-basics/create-a-document-76c": {
-    "__comp": "17896441",
-    "content": "1e4232ab"
-  },
-  "/engineering-best-practices/docs/tutorial-basics/create-a-page-005": {
-    "__comp": "17896441",
-    "content": "5c868d36"
-  },
-  "/engineering-best-practices/docs/tutorial-basics/deploy-your-site-152": {
-    "__comp": "17896441",
-    "content": "f55d3e7a"
-  },
-  "/engineering-best-practices/docs/tutorial-basics/markdown-features-68b": {
-    "__comp": "17896441",
-    "content": "18c41134"
-  },
-  "/engineering-best-practices/docs/tutorial-extras/manage-docs-versions-b2f": {
-    "__comp": "17896441",
-    "content": "dff1c289"
-  },
-  "/engineering-best-practices/docs/tutorial-extras/translate-your-site-dc0": {
-    "__comp": "17896441",
-    "content": "e44a2883"
-  },
-  "/engineering-best-practices/-cba": {
-    "__comp": "1df93b7f",
+  "/engineering-best-practices/-826": {
+    "__comp": "c4f5d8e4",
     "__context": {
       "plugin": "a7456010"
     },

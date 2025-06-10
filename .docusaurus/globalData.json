@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/engineering-best-practices/docs",
-          "mainDocId": "code-quality",
+          "mainDocId": "intro",
           "docs": [
             {
               "id": "code-quality",
@@ -22,47 +22,16 @@
             },
             {
               "id": "intro",
-              "path": "/engineering-best-practices/docs/intro"
-            },
-            {
-              "id": "tutorial-basics/congratulations",
-              "path": "/engineering-best-practices/docs/tutorial-basics/congratulations"
-            },
-            {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/engineering-best-practices/docs/tutorial-basics/create-a-blog-post"
-            },
-            {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/engineering-best-practices/docs/tutorial-basics/create-a-document"
-            },
-            {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/engineering-best-practices/docs/tutorial-basics/create-a-page"
-            },
-            {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/engineering-best-practices/docs/tutorial-basics/deploy-your-site"
-            },
-            {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/engineering-best-practices/docs/tutorial-basics/markdown-features"
-            },
-            {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/engineering-best-practices/docs/tutorial-extras/manage-docs-versions"
-            },
-            {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/engineering-best-practices/docs/tutorial-extras/translate-your-site"
+              "path": "/engineering-best-practices/docs/intro",
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/engineering-best-practices/docs/code-quality",
-                "label": "code-quality"
+                "path": "/engineering-best-practices/docs/intro",
+                "label": "intro"
               }
             }
           }
