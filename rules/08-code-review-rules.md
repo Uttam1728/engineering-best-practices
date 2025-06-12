@@ -37,22 +37,15 @@ Essential rules for conducting effective code reviews and ensuring quality befor
   - Have I removed all debugging statements?
   - Does the code follow our team's style guide?
 
-### CR2: Run All Tests Locally
-- **Rule**: Run all tests locally
-- **Category**: Code Review
-- **Description**: All tests must pass locally before code submission. This includes unit tests, integration tests, and any relevant end-to-end tests.
 
-### CR3: Check for Code Formatting Issues
+### CR2: Check for Code Formatting Issues
 - **Rule**: Check for code formatting issues
 - **Category**: Code Review
 - **Description**: Code formatting must be checked and corrected before submission. Use automated formatters and configure them in your IDE and CI/CD pipeline.
 
-### CR4: Ensure Documentation is Updated
-- **Rule**: Ensure documentation is updated
-- **Category**: Code Review
-- **Description**: All relevant documentation must be updated to reflect code changes. This includes API docs, README files, and inline documentation.
 
-### CR5: Review Code Functionality and Correctness
+
+### CR3: Review Code Functionality and Correctness
 - **Rule**: Code functionality and correctness
 - **Category**: Code Review
 - **Description**: Code functionality and correctness must be verified during review. Check logic, algorithms, error handling, and edge cases.
@@ -66,7 +59,7 @@ Essential rules for conducting effective code reviews and ensuring quality befor
   // - Are all code paths tested?
   ```
 
-### CR6: Review Code Readability and Maintainability
+### CR4: Review Code Readability and Maintainability
 - **Rule**: Code readability and maintainability
 - **Category**: Code Review
 - **Description**: Code must be reviewed for readability and long-term maintainability. Focus on clarity, simplicity, and ease of modification.
@@ -114,12 +107,12 @@ Essential rules for conducting effective code reviews and ensuring quality befor
   # - Is the code properly structured with clear responsibilities?
   ```
 
-### CR7: Consider Performance Implications
+### CR5: Consider Performance Implications
 - **Rule**: Performance implications
 - **Category**: Code Review
 - **Description**: Performance impact of code changes must be evaluated during review. Look for inefficient algorithms, unnecessary operations, and potential bottlenecks.
 
-### CR8: Review Security Considerations
+### CR6: Review Security Considerations
 - **Rule**: Security considerations
 - **Category**: Code Review
 - **Description**: Security implications must be assessed during code review. Check for common vulnerabilities, proper input validation, and secure coding practices.
@@ -169,26 +162,14 @@ Essential rules for conducting effective code reviews and ensuring quality befor
   }
   ```
 
-### CR9: Verify Test Coverage and Quality
-- **Rule**: Test coverage and quality
-- **Category**: Code Review
-- **Description**: Test coverage and quality must be verified as part of the review process. Ensure new code is properly tested and existing tests are updated.
-- **Examples**:
-  ```javascript
-  // When reviewing new code, check:
-  // 2. Are edge cases covered?
-  // 3. Are error scenarios tested?
-  // 4. Check test quality
-  // ✅ Good test - specific and clear
-  
-  ```
 
-### CR10: Implement Mandatory Code Reviews
+
+### CR7: Implement Mandatory Code Reviews
 - **Rule**: Implement mandatory code reviews
 - **Category**: Code Review
 - **Description**: All code changes must go through mandatory code review process. Configure branch protection rules to enforce this requirement.
 
-### CR11: Use Pull Request Templates
+### CR8: Use Pull Request Templates
 - **Rule**: Use pull request templates
 - **Category**: Code Review
 - **Description**: Standardized pull request templates must be used for consistent reviews. Include sections for description, testing, and reviewer guidance.
