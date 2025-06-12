@@ -19,8 +19,3 @@ Essential rules for effective team collaboration and communication in software d
 - **Rule**: Share knowledge and mentor team members
 - **Category**: Collaboration
 - **Description**: Actively share knowledge, provide mentoring, and create learning opportunities to help team members grow and improve their skills.
-
-### COL4: Maintain Transparent Project Communication
-- **Rule**: Maintain transparent project communication
-- **Category**: Collaboration
-- **Description**: Ensure all project-related information, decisions, and progress updates are communicated transparently to all stakeholders through appropriate channels and documentation.
