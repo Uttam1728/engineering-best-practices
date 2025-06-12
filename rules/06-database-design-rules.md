@@ -228,8 +228,3 @@ Essential rules for designing robust, scalable, and maintainable database schema
 - **Rule**: Implement database migration strategies
 - **Category**: Database Design
 - **Description**: Use versioned database migrations to manage schema changes safely. Implement backward-compatible changes when possible and plan for rollback scenarios.
-
-### DD6: Design for Performance and Scalability
-- **Rule**: Design for performance and scalability
-- **Category**: Database Design
-- **Description**: Design database schemas that can handle growth in data volume and user load. Consider partitioning, sharding, and query optimization strategies from the beginning.
